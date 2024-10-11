@@ -1,0 +1,8 @@
+Ligar o primeiro interruptor e deixar ligado por alguns minutos (tempo suficiente para a lâmpada esquentar).
+Depois de alguns minutos, desligar o primeiro interruptor e ligar o segundo interruptor.
+Ir até a sala das lâmpadas:
+    A lâmpada que está acesa corresponde ao segundo interruptor.
+    A lâmpada que está apagada mas quente corresponde ao primeiro interruptor (pois estava ligada e depois foi desligada).
+    A lâmpada que está apagada e fria corresponde ao terceiro interruptor (que nunca foi ligado).
+
+Dessa maneira é possível verificar os interruptores com somente uma ida a sala.
